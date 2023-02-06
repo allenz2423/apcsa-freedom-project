@@ -12,7 +12,7 @@ For the past couple months, I’ve been working with TensorFlow. Working with a 
 
 ### Creating Prototype 1
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b770e4f0-fe08-4b3d-be45-076da49dd755/Untitled.png)
+![Untitled](Untitled.png)
 
 The first prototype used flex sensors that were crudely hot-glued to a cheap pair of gloves (that admittedly worked pretty well). The flex sensors were wired to an Arduino using a breadboard, which was sewn to the glove. By adding accelerometer data, it allows me to gather data about how the hand is moving, in what direction and where it is at. Ideally, the method for tracking the position of the hand would be done by using a LiDAR or a camera. The gyroscope is used to determine the orientation, or rather how the glove is rotating relative to it’s current orientation. 
 
