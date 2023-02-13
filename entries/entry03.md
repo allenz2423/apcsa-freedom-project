@@ -22,9 +22,4 @@ I am finished with the prototyping process and the testing process. The next ste
 
 ### Skills
 
-The skills that I’ve used are How to Google, How to Learn, and Problem Decomposition.
-
-
-[Previous](entry02.md) | [Next](entry04.md)
-
-[Home](../README.md)
+The skills that I’ve used are How to Google, How to Learn, and Problem Decomposition. The ways I applied these skills are by looking up how to write code to read the MPU6050, how to wire the MPU6050, and how to create and train a model using a dataset.
